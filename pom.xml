@@ -49,6 +49,7 @@
         </dependency>
 
         <!-- Lombok -->
+        <!-- prueba de conflicto de merge request -->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
